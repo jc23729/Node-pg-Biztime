@@ -34,3 +34,6 @@ module.exports = app;
 // Create a project folder, a Git repo, and a package.json
 // Install express and pg via NPM
 // Add node_modules to .gitignore
+
+// To run data.sql
+// type in psql in terminal 
