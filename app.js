@@ -29,3 +29,8 @@ app.use((err, req, res, next) => {
 
 
 module.exports = app;
+
+// Step 0: Setup
+// Create a project folder, a Git repo, and a package.json
+// Install express and pg via NPM
+// Add node_modules to .gitignore
